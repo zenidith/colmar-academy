@@ -17,6 +17,7 @@ As it is intended to be done all on your own environment, you may not want to fo
 - `fork` and `git clone` the repo to get the necessary files. 
 - `cd colmar-academy`
 - `code .` 
+- `touch index.html`
 - `open index.html`
 
 ## Recommendations
